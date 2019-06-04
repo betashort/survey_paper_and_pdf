@@ -41,15 +41,23 @@
 # フォーマット
 [format](./paper/format.md)  
 
+# 論文の種類  
 
+1. 原著論文(Article, Journal)  
+2. 総説論文(review)  
+3. レター(Letter)  
+4. 会議録  
+5. 学位論文  
+
+[9]
 # 参考  
  1. [shunk031/paper-survey](https://github.com/shunk031/paper-survey)  
  2. [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](http://lafrenze.hatenablog.com/entry/2015/08/04/120205)  
  3. [先端技術とメディア表現1](https://www.slideshare.net/Ochyai/1-ftma15)  
  4. [【５分でわかる！】研究室での英語論文の読み方のコツ](https://rabotiku-sato.com/entry/2016/11/29/020928/)
  5. [効率的な論文の読み方とは？　論文の読み方を知るための論文](https://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata)
- 6. [自然科学系研究者のタマゴ向け
- 「論文を読むということ」
-    ダイジェスト版](http://www.chem.waseda.ac.jp/koide/20160108.pdf)
-  7. [工学系大学4年生のための論文の読み方](https://www.slideshare.net/ychtanaka/4-89034938)
-  8. [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+ 6. [自然科学系研究者のタマゴ向け「論文を読むということ」ダイジェスト版](http://www.chem.waseda.ac.jp/koide/20160108.pdf)  
+ 7. [工学系大学4年生のための論文の読み方](https://www.slideshare.net/ychtanaka/4-89034938)
+ 8. [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)  
+ 9. [論文の種類について](https://www.lib.hokudai.ac.jp/uploads/2018/02/3-30_%E8%AB%96%E6%96%87%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6v1.0.pdf)  
+ 10. 
