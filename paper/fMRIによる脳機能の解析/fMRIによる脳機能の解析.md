@@ -2,8 +2,8 @@
 1. 著者 神長達郎  
 2. 研究機関  帝京大学
 3. 発行年  2006年 日老医誌  
-4. [URL]()  
-
+4. [URL](https://www.jstage.jst.go.jp/article/geriatrics1964/43/1/43_1_1/_pdf)  
+5. 編集20190608
 ## ジャンル
 総説論文  
 
@@ -28,6 +28,7 @@ fMRIとは、脳内の局所神経活動により変化した局所脳血流に�
 6. 局所脳組織におけるDeoxyhemoglobin濃度が一時的に減少する  
 7. 局所MRI信号が増加する。(Deoxyhemoglobinは常磁性体であり、MRI信号を弱める。)  
 これをBOLD効果と呼ぶ  
+
 #### 参考文献  
 + [Brain magnetic resonance imaging with contrast dependent on blood oxygenation](https://www.pnas.org/content/87/24/9868.short)  
 + [Oxygenation‐sensitive contrast in magnetic resonance image of rodent brain at high magnetic fields]  
@@ -50,18 +51,6 @@ fMRIに用いられるシーケンスは、BOLD効果の影響を受けやすく
 
 ## 実験
 血流動態が正常でない脳領域は、fMRIの対象としてふさわしくない。
-
-
-
-# 何をやったのか  
-fMRIの原理・解析について、まとめられている。  
-
-# 何を証明したのか  
-
-
-# 何を使っているのか  
-
-# 今までとそれはどう異なっているのか  
 
 
 # 気になる参考文献  

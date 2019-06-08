@@ -1,5 +1,7 @@
 # Survey paper and pdf
-読んだ論文や、PDF等の資料をまとめていきます。
+読んだ論文や、PDF等の資料をまとめていきます。  
+
+論文でない、PDF資料等も混じっています。  
 <!--
 ![代替テキスト](画像のURL)
 
@@ -60,4 +62,4 @@
  7. [工学系大学4年生のための論文の読み方](https://www.slideshare.net/ychtanaka/4-89034938)
  8. [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)  
  9. [論文の種類について](https://www.lib.hokudai.ac.jp/uploads/2018/02/3-30_%E8%AB%96%E6%96%87%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6v1.0.pdf)  
- 10. 
+ 10.
