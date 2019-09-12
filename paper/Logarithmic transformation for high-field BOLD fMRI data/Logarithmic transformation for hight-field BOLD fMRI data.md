@@ -1,5 +1,5 @@
 # Logarithmic transformation for high-field BOLD fMRI data
-1. 
+1.
 2. Springer-Verlag
 3. 発行年 2005
 4. URL
