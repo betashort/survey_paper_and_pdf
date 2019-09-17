@@ -19,12 +19,33 @@ fMRI解析の多重比較の問題を統計的フィルタで解決する。
 
 6. [Detecting Functional Connectivity in fMIR Using PCA and Regression Analysis]()
 
+7. [Analyzing Neuroimaging Data Through Recurrent Deep Learning Models]()
+https://arxiv.org/abs/1810.09945
+
+8. [Machine learning in resting-state fMRI analysis]()
+https://arxiv.org/abs/1812.11477
+
+9. [Spatial 3D Matérn priors for fast whole-brain fMRI analysis]()
+https://arxiv.org/abs/1906.10591
+
+10. [Identification of temporal transition of functional states using recurrent neural networks from functional MRI](https://arxiv.org/abs/1809.05560)
+
+11. [A Consistent Independence Test for Multivariate Time-Series]()
+https://arxiv.org/abs/1908.06486
+
+12. [Parameter clustering in Bayesian functional PCA of fMRI data]()
+https://arxiv.org/abs/1904.11758
+
+13. [Identification of temporal transition of functional states using recurrent neural networks from functional MRI]()
+https://arxiv.org/abs/1809.05560
 
 ## Negative BOLD Responses
 1.
 2.
 3. [Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition](paper/Negative_BOLD_Responses/Negative_BOLD_signal_changes_in_ipsilateral_primary_somatosensory_cortex_are_associated_with_perfusion_decreases_and_behavioral_evidence_for_functional_inhibition/Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition.md)
 
+### BOLD
+1. [BOLD-fMRI in the mouse auditory pathway](https://arxiv.org/abs/1903.08565)
 
 
 ## About fMRI
@@ -32,4 +53,9 @@ fMRI解析の多重比較の問題を統計的フィルタで解決する。
 2.
 3.
 
-##
+## Other
+
+1. [Interpretable Deep Learning in Drug Discovery]()
+https://arxiv.org/abs/1903.02788
+
+2.
