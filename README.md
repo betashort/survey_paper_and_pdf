@@ -2,7 +2,7 @@
 [論文の読み方などのまとめ](./how_to_read_summarize.md)
 ## fMRI Analysis
 
-1. [Logarithmic transformation for high-field BOLD fMRI data](./paper/fMRI_Analysis/Logarithmic transformation for high-field BOLD fMRI data/Logarithmic transformation for hight-field BOLD fMRI data.md)  
+1. [Logarithmic transformation for high-field BOLD fMRI data](./paper/fMRI_Analysis/Logarithmic_transformation_for_high-field_BOLD_fMRI_data/Logarithmic_transformation_for_high-field_BOLD_fMRI_data.md)  
 高磁場BOLD fMRIデータに対して、Log変換が必要である。
 
 2. [Partial least squares for discrimination in fMRI data](./paper/fMRI_Analysis/Partial_least_squares_for_discrimination_in_fMRI_data/Partial_least_squares_for_discrimination_in_fMRI_data.md)  
