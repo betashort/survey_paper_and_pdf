@@ -1,6 +1,9 @@
 # Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition
 
-
+1. 著者
+2. 研究機関
+3. 発行年 20
+4. [URL]()
 
 ## メモ
 健常者におけるnegative BOLD信号とその根底にある血流変化を研究した論文  

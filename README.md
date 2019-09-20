@@ -42,16 +42,27 @@ https://arxiv.org/abs/1904.11758
 https://arxiv.org/abs/1809.05560
 
 ## Negative BOLD Responses
-1.
-2.
-3. [Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition](paper/Negative_BOLD_Responses/Negative_BOLD_signal_changes_in_ipsilateral_primary_somatosensory_cortex_are_associated_with_perfusion_decreases_and_behavioral_evidence_for_functional_inhibition/Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition.md)
+
+1. [Neural inhibition can explain negative BOLD responses:A mechanistic modelling and fMRI study](paper/Negative_BOLD_Responses/Neural_inhibition_can_explain_negative_BOLD_responses_A_mechanistic_modelling_and_fMRI_study/Neural_inhibition_can_explain_negative_BOLD_responses_A_mechanistic_modelling_and_fMRI_study.md)  
+神経抑制がnegative BOLD responsesを説明する。
+
+2. [Negarive BOLD responses during hand and foot movements:An fMRI study](paper/Negative_BOLD_Responses/Negarive_BOLD_responses_during_hand_and_foot_movements_An_fMRI_study/Negarive_BOLD_responses_during_hand_and_foot_movements_An_fMRI_study.md)
+手と足の運動時のnegative BOLD responses
+
+3. [Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition](paper/Negative_BOLD_Responses/Negative_BOLD_signal_changes_in_ipsilateral_primary_somatosensory_cortex/Negative_BOLD_signal_changes_in_ipsilateral_primary_somatosensory_cortex.md)
+
+4. [Evidence that the negative BOLD response is neuronal in origin:A simultaneous EEG-BOLD-CBF study in humans](paper/Negative_BOLD_Responses/Evidence_that_the_negative_BOLD_response_is_neuronal_in_origin/Evidence_that_the_negative_BOLD_response_is_neuronal_in_origin.md)
+
+
+5. [Role of the inhibitory system in shaping the BOLD fMRI response](paper/Negative_BOLD_Responses/Role_of_the_inhibitory_system_in_shaping_the_BOLD_fMRI_response/Role_of_the_inhibitory_system_in_shaping_the_BOLD_fMRI_response.md)
+
 
 ### BOLD
 1. [BOLD-fMRI in the mouse auditory pathway](https://arxiv.org/abs/1903.08565)
 
 
 ## About fMRI
-1.
+1. 
 2.
 3.
 
