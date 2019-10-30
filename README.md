@@ -2,23 +2,23 @@
 [論文の読み方などのまとめ](./how_to_read_summarize.md)
 ## fMRI Analysis
 
-1. [Logarithmic transformation for high-field BOLD fMRI data](./paper/fMRI_Analysis/Logarithmic_transformation_for_high-field_BOLD_fMRI_data/Logarithmic_transformation_for_high-field_BOLD_fMRI_data.md)  
+1. [Logarithmic transformation for high-field BOLD fMRI data](./paper/fMRI_Analysis/1/fMRI_Analysis1.md)  
 高磁場BOLD fMRIデータに対して、Log変換が必要である。
 
-2. [Partial least squares for discrimination in fMRI data](./paper/fMRI_Analysis/Partial_least_squares_for_discrimination_in_fMRI_data/Partial_least_squares_for_discrimination_in_fMRI_data.md)  
+2. [Partial least squares for discrimination in fMRI data](./paper/fMRI_Analysis/2/fMRI_Analysis2.md)  
 脳機能的結合の空間的パターンの識別に対して、次元削減従来法PCA・PLSと提案手法OrPLSの比較
 
-3. [Detecting_directional_influence_in_fMRI_connectivity_analysis_using_PCA_based_Granger_causality](./paper/fMRI_Analysis/Detecting_directional_influence_in_fMRI_connectivity_analysis_using_PCA_based_Granger_causality/Detecting_directional_influence_in_fMRI_connectivity_analysis_using_PCA_based_Granger_causality.md)  
+3. [Detecting_directional_influence_in_fMRI_connectivity_analysis_using_PCA_based_Granger_causality](./paper/fMRI_Analysis/3/fMRI_Analysis3.md)  
 PCAに基づいたグレンジャー因果での、結合性分析は有効な手段である。
 
 
-4. [fMRIにおける多重検定ノイズに対する統計的フィルタの検討](paper/fMRI_Analysis/the_statistical_filter_for_a_multiple_test_noise_on_fmri/the_statistical_filter_for_a_multiple_test_noise_on_fmri.md)  
+4. [fMRIにおける多重検定ノイズに対する統計的フィルタの検討](paper/fMRI_Analysis/4/fMRI_Analysis4.md)  
 fMRI解析の多重比較の問題を統計的フィルタで解決する。
 
 
-5. [Principal Component Analysis for Analysis and Classification of fMRI Activation Maps](paper/fMRI_Analysis/Principal_Component_Analysis_for_Analysis_and_Classification_of_fMRI_Activation_Maps/Principal_Component_Analysis_for_Analysis_and_Classification_of_fMRI_Activation_Maps.md)  
+5. [Principal Component Analysis for Analysis and Classification of fMRI Activation Maps](paper/fMRI_Analysis/5/fMRI_Analysis5.md)  
 
-6. [Detecting Functional Connectivity in fMIR Using PCA and Regression Analysis]()  
+6. [Detecting Functional Connectivity in fMIR Using PCA and Regression Analysis](paper/fMRI_Analysis/6/fMRI_Analysis6.md)  
 
 7. [Analyzing Neuroimaging Data Through Recurrent Deep Learning Models]()  
 https://arxiv.org/abs/1810.09945
@@ -43,18 +43,18 @@ https://arxiv.org/abs/1809.05560
 
 ## Negative BOLD Responses
 
-1. [Neural inhibition can explain negative BOLD responses:A mechanistic modelling and fMRI study](paper/Negative_BOLD_Responses/Neural_inhibition_can_explain_negative_BOLD_responses_A_mechanistic_modelling_and_fMRI_study/Neural_inhibition_can_explain_negative_BOLD_responses_A_mechanistic_modelling_and_fMRI_study.md)  
+1. [Neural inhibition can explain negative BOLD responses:A mechanistic modelling and fMRI study](paper/Negative_BOLD_Responses/1/NBR1.md)  
 神経抑制がnegative BOLD responsesを説明する。
 
-2. [Negarive BOLD responses during hand and foot movements:An fMRI study](paper/Negative_BOLD_Responses/Negarive_BOLD_responses_during_hand_and_foot_movements_An_fMRI_study/Negarive_BOLD_responses_during_hand_and_foot_movements_An_fMRI_study.md)
+2. [Negarive BOLD responses during hand and foot movements:An fMRI study](paper/Negative_BOLD_Responses/2/NBR2.md)
 手と足の運動時のnegative BOLD responses
 
-3. [Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition](paper/Negative_BOLD_Responses/Negative_BOLD_signal_changes_in_ipsilateral_primary_somatosensory_cortex/Negative_BOLD_signal_changes_in_ipsilateral_primary_somatosensory_cortex.md)
+3. [Negative BOLD signal changes in ipsilateral primary somatosensory cortex are associated with perfusion decreases and behavioral evidence for functional inhibition](paper/Negative_BOLD_Responses/3/NBR3.md)
 
-4. [Evidence that the negative BOLD response is neuronal in origin:A simultaneous EEG-BOLD-CBF study in humans](paper/Negative_BOLD_Responses/Evidence_that_the_negative_BOLD_response_is_neuronal_in_origin/Evidence_that_the_negative_BOLD_response_is_neuronal_in_origin.md)
+4. [Evidence that the negative BOLD response is neuronal in origin:A simultaneous EEG-BOLD-CBF study in humans](paper/Negative_BOLD_Responses/4/NBR4.md)
 
 
-5. [Role of the inhibitory system in shaping the BOLD fMRI response](paper/Negative_BOLD_Responses/Role_of_the_inhibitory_system_in_shaping_the_BOLD_fMRI_response/Role_of_the_inhibitory_system_in_shaping_the_BOLD_fMRI_response.md)
+5. [Role of the inhibitory system in shaping the BOLD fMRI response](paper/Negative_BOLD_Responses/5/NBR5.md)
 
 
 ### BOLD
@@ -62,7 +62,7 @@ https://arxiv.org/abs/1809.05560
 
 
 ## About fMRI
-1. 
+1.
 2.
 3.
 
