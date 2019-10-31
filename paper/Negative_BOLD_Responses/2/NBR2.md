@@ -8,4 +8,7 @@
 
 運動実行時のNegative BOLD信号の特性調べる  
 
-## Abstract
+Negative BOLD responsesは、次のような自発的運動時に観測された。
+1. SMI(primary sensorimotor area)の左右を繋ぐ梁  
+2. 様々な領域とのdeactiveな神経回路  
+3. MeFG(middle frontal gyrus)やCG(cingulate gyrus)のデフォルトモードネットワーク
