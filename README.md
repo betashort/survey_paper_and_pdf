@@ -56,7 +56,7 @@ https://arxiv.org/abs/1809.05560
 
 5. [ ] [Role of the inhibitory system in shaping the BOLD fMRI response](paper/Negative_BOLD_Responses/5/NBR5.md)
 
-
+6. [ ] [Hippocampus has lower oxygenation and weaker control of brain blood flow than cortex, due to microvascular differences](paper/Negative_BOLD_Responses/6/NBR6.md)
 ### BOLD
 1. [ ] [BOLD-fMRI in the mouse auditory pathway](https://arxiv.org/abs/1903.08565)
 
