@@ -41,6 +41,14 @@ https://arxiv.org/abs/1904.11758
 13. [ ] [Identification of temporal transition of functional states using recurrent neural networks from functional MRI]()
 https://arxiv.org/abs/1809.05560
 
+14. [ ] [Classification of fMRI data using dynamic time warping based functional connectivity analysis](https://ieeexplore.ieee.org/abstract/document/7760247)
+
+15. [ ] [Resting State fMRI Functional Connectivity Analysis Using Dynamic Time Warping](https://www.frontiersin.org/articles/10.3389/fnins.2017.00075/full)
+
+16. [ ] [Resting State fMRI Functional Connectivity-Based Classification Using a Convolutional Neural Network Architecture](https://www.frontiersin.org/articles/10.3389/fninf.2017.00061/full?report=reader)
+
+17. [ ] [Neurovascular coupling: insights from multi-modal dynamic causal modelling of fMRI and MEG](https://arxiv.org/abs/1903.07478)
+
 ## Negative BOLD Responses
 
 1. [ ] [Neural inhibition can explain negative BOLD responses:A mechanistic modelling and fMRI study](paper/Negative_BOLD_Responses/1/NBR1.md)  
@@ -57,6 +65,7 @@ https://arxiv.org/abs/1809.05560
 5. [ ] [Role of the inhibitory system in shaping the BOLD fMRI response](paper/Negative_BOLD_Responses/5/NBR5.md)
 
 6. [ ] [Hippocampus has lower oxygenation and weaker control of brain blood flow than cortex, due to microvascular differences](paper/Negative_BOLD_Responses/6/NBR6.md)
+
 ### BOLD
 1. [ ] [BOLD-fMRI in the mouse auditory pathway](https://arxiv.org/abs/1903.08565)
 
