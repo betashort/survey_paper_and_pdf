@@ -4,7 +4,6 @@
 
 1. 一方の半球から他方への経脳梁阻害
 2. タスク関連の非活性化
-3.
 
 ## Negative BOLD Responses
 1. [ ] [Neural inhibition can explain negative BOLD responses:A mechanistic modelling and fMRI study](.1/NBR1.md)  
@@ -21,3 +20,9 @@
 5. [ ] [Role of the inhibitory system in shaping the BOLD fMRI response](./5/NBR5.md)
 
 6. [ ] [Hippocampus has lower oxygenation and weaker control of brain blood flow than cortex, due to microvascular differences](./6/NBR6.md)
+
+7. [ ] [fMRIを用いた脳機能の評価-脳虚血への臨床応用の可能性-](./7/7.md)
+
+8. [ ] [デオキシヘモグロビンとfMRI信号の多様な関係](./8/8.md)
+
+9. [ ] [](./9/9.md)

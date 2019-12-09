@@ -1,22 +1,22 @@
 ## fMRI Analysis
 
-1. [ ] [Logarithmic transformation for high-field BOLD fMRI data](./paper/fMRI_Analysis/1/fMRI_Analysis1.md)  
+1. [ ] [Logarithmic transformation for high-field BOLD fMRI data](./1/fMRI_Analysis1.md)  
 高磁場BOLD fMRIデータに対して、Log変換が必要である。
 
-2. [ ] [Partial least squares for discrimination in fMRI data](./paper/fMRI_Analysis/2/fMRI_Analysis2.md)  
+2. [ ] [Partial least squares for discrimination in fMRI data](./2/fMRI_Analysis2.md)  
 脳機能的結合の空間的パターンの識別に対して、次元削減従来法PCA・PLSと提案手法OrPLSの比較
 
-3. [ ] [Detecting_directional_influence_in_fMRI_connectivity_analysis_using_PCA_based_Granger_causality](./paper/fMRI_Analysis/3/fMRI_Analysis3.md)  
+3. [ ] [Detecting_directional_influence_in_fMRI_connectivity_analysis_using_PCA_based_Granger_causality](./3/fMRI_Analysis3.md)  
 PCAに基づいたグレンジャー因果での、結合性分析は有効な手段である。
 
 
-4. [ ] [fMRIにおける多重検定ノイズに対する統計的フィルタの検討](paper/fMRI_Analysis/4/fMRI_Analysis4.md)  
+4. [ ] [fMRIにおける多重検定ノイズに対する統計的フィルタの検討](./4/fMRI_Analysis4.md)  
 fMRI解析の多重比較の問題を統計的フィルタで解決する。
 
 
-5. [ ] [Principal Component Analysis for Analysis and Classification of fMRI Activation Maps](paper/fMRI_Analysis/5/fMRI_Analysis5.md)  
+5. [ ] [Principal Component Analysis for Analysis and Classification of fMRI Activation Maps](./5/fMRI_Analysis5.md)  
 
-6. [ ] [Detecting Functional Connectivity in fMIR Using PCA and Regression Analysis](paper/fMRI_Analysis/6/fMRI_Analysis6.md)  
+6. [ ] [Detecting Functional Connectivity in fMIR Using PCA and Regression Analysis](./6/fMRI_Analysis6.md)  
 
 7. [ ] [Analyzing Neuroimaging Data Through Recurrent Deep Learning Models]()  
 https://arxiv.org/abs/1810.09945
