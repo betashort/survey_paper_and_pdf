@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.1.11)  30 DEC 2019 02:32
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.1.11)  30 DEC 2019 04:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -141,17 +141,20 @@ LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 32.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 32.
- [1
 
-]
-(./about_fmri.aux) ) 
+
+LaTeX Warning: Empty `thebibliography' environment on input line 55.
+
+[1
+
+] (./about_fmri.aux) ) 
 Here is how much of TeX's memory you used:
  1190 strings out of 493679
  15446 string characters out of 6149847
- 72558 words of memory out of 5000000
+ 73558 words of memory out of 5000000
  4788 multiletter control sequences out of 15000+600000
  12558 words of font info for 62 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  25i,6n,21p,219b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on about_fmri.dvi (1 page, 2616 bytes).
+Output written on about_fmri.dvi (1 page, 2636 bytes).

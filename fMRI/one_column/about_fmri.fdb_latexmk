@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1577640723 "about_fmri.dvi" "about_fmri.pdf" "about_fmri" 1577640724
-  "about_fmri.dvi" 1577640723 2616 5eaa5b5c54c6a9062701b55b0e38d308 "latex"
+["dvipdf"] 1577646058 "about_fmri.dvi" "about_fmri.pdf" "about_fmri" 1577646059
+  "about_fmri.dvi" 1577646058 2636 9e57918bc762e9b826b068b14eab12df "latex"
   (generated)
   "about_fmri.pdf"
-["latex"] 1577640722 "about_fmri.tex" "about_fmri.dvi" "about_fmri" 1577640724
+["latex"] 1577646058 "about_fmri.tex" "about_fmri.dvi" "about_fmri" 1577646059
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -40,9 +40,9 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1480464068 31950 ac8b001dc981c955937bf505c6005d23 ""
   "/usr/local/texlive/2016/texmf-var/web2c/euptex/uplatex.fmt" 1484061961 4049689 5c9c71ddac5b2baf84be0a108884fe27 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "about_fmri.aux" 1577640723 443 dde06bbd956a83dee0f0383de4febb59 ""
-  "about_fmri.tex" 1577640722 1539 1d2372eda8a94143642360e894f87783 ""
+  "about_fmri.aux" 1577646058 443 dde06bbd956a83dee0f0383de4febb59 ""
+  "about_fmri.tex" 1577646058 1715 2b64442ffd5dee66e19c2faecfa8c4cf ""
   (generated)
-  "about_fmri.aux"
   "about_fmri.dvi"
   "about_fmri.log"
+  "about_fmri.aux"
