@@ -1,0 +1,66 @@
+%欧文
+\documentclass[uplatex, a4j, twocolumn]{article}
+
+\begin{document}
+% 表紙
+\title{Review: fMRI Analysis}
+\author{渡辺将太}
+% \date{}
+
+\twocolumn[
+  \begin{@twocolumnfalse}
+    \maketitle
+    \begin{abstract}
+      functional MRI(fMRI) Analysisについてまとめる．
+    \end{abstract}
+  \end{@twocolumnfalse}
+  ]
+% 本文
+%\chapter{序論}
+\section{fMRIとは}
+fMRI(functional Magnetic Resonance Imaging)
+
+\section{fMRIの基礎}
+
+\subsection{BOLD効果}
+fMRIの基礎は、BOLD(Blood Oxygenation Level Dependent) Responsesである。
+
+BOLD Responsesは、Positive BOLD Responses(PBR)と、Negative BOLD Responses(NBR)に分けられる。
+PBRは、実験課題で活性化(activated)する(fMRI値が増加する)反応である。
+一方、NBRは、実験課題で不活性化(deactivated)する(fMRI値が減少する)反応である。
+
+PBRは、神経活動の増加に伴う局所のdHbの減少を反映している。(血流量増大によるHbの過剰な流入)
+NBRは、イニシャルディップはPBRの前に生じる短時間の信号低下で、血流量の増加に先立ち、dHbが一時的に蓄積するため生じると理解されている。
+また、持続性のNBRも生じる。この答えは未だに完全には解明されていない。
+\subsubsection{正のBOLD効果}
+\subsubsection{負のBOLD効果}
+負のBOLD効果について
+[2]"Activation and deactivation in blood oxygenation level dependent functional magnetic resonance imaging"
+
+
+[3]"Interpreting Deactivations in Neuroimaging"
+
+[4]Evidence that the negative BOLD response is neuronal in origin:A simultaneous EEG-BOLD-CBF studyin humans"
+
+抑制性の介在ニューロン
+[9]"Organizing principles for a diversity of GABAergic interneurons and synapses in the neocortex"
+
+\subsection{fMRIデータの前処理}
+
+\subsection{fMRIの実験デザイン}
+ブロックデザイン/事象関連デザイン/
+\subsection{fMRIの解析手法}
+Statistics Parametric Mapping(SPM)
+\subsection{fMRIの解析ソフト}
+SPM/FSL/FreeSurfer
+\section{fMRIの応用: 活用事例}
+臨床など
+
+\subsection{実験課題について}
+[10]"What is that little voice inside my head?Inner speech phenomenology, its role in cognitive performance, and its relation to self-monitoring"
+
+
+\subsection{側頭葉の介在ニューロンの比率}
+[17]"Colocalization of calbindin D-28k, calretinin, and GABA immuroreactivities in neurons of the human temporal cortex"
+
+\section{参考文献}
