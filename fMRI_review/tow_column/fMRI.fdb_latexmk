@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1585329367 "fMRI.dvi" "fMRI.pdf" "fMRI" 1585329368
-  "fMRI.dvi" 1585329367 3840 955878725b31ecb37f6ef6903a018ffe "latex"
+["dvipdf"] 1585329843 "fMRI.dvi" "fMRI.pdf" "fMRI" 1585329844
+  "fMRI.dvi" 1585329843 3840 52ed8cc078c3682e0ca6d7add94e1c7e "latex"
   (generated)
   "fMRI.pdf"
-["latex"] 1585329367 "fMRI.tex" "fMRI.dvi" "fMRI" 1585329368
+["latex"] 1585329843 "fMRI.tex" "fMRI.dvi" "fMRI" 1585329844
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -28,9 +28,9 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1480464068 31950 ac8b001dc981c955937bf505c6005d23 ""
   "/usr/local/texlive/2016/texmf-var/web2c/euptex/uplatex.fmt" 1484061961 4049689 5c9c71ddac5b2baf84be0a108884fe27 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "fMRI.aux" 1585329367 947 6145f2b39bc9b55af864edee8d5bcfde ""
-  "fMRI.tex" 1585329366 2481 7edff2077e6093b47d9b0886d8c4aced ""
+  "fMRI.aux" 1585329843 947 6145f2b39bc9b55af864edee8d5bcfde ""
+  "fMRI.tex" 1585329842 2476 838c498a4ca8e5677fe53940b3eeaa79 ""
   (generated)
-  "fMRI.log"
   "fMRI.dvi"
+  "fMRI.log"
   "fMRI.aux"
